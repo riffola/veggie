@@ -1,19 +1,29 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About Saroj Joshi
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Saroj Joshi is a multiple award-winning cookbook author and jeweler based in Mumbai, India. She began conducting cooking classes in 1985 and her mastery of creating vegetarian dishes inspired by international cuisine has produced three sold-out cookbooks.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Her first book, **Palak Preparations**, was released in 1999. This was followed by the Gujarati cookbook **Amar Swad** in 2004. In 2010, her third cookbook **Unique Book of Vegetarian Cooking** was launched by Crosswords Bookstores in four cities across India.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+The book won the prestigious **Gourmand World Cook Book Award** for the Best Vegetarian Cuisine Book in India and was nominated for the World's Best Vegetarian Cuisine Book in Paris, France. Due to popular demand, two of her books were relaunched with updated 2nd editions.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Her award-winning book is available at Crosswords bookstores in India, Kitchen Arts & Letters in New York City, and worldwide via Amazon as an ebook. Saroj is currently working on her next book featuring vegan alkaline recipes.
+
+### Selected Awards & Recognition
+
+- **2019** — Hastaksharr Self-made Diva Anapurna Award, Mumbai
+- **2017** — Meet the Author Event, New York City
+- **2010** — Gourmand World Cook Book Award Winner
+- **2004** — Tejaswini Woman of the Year Award, Mumbai
+- **2004** — Outstanding Achievements in Business, New York City, USA
+
+### Media Appearances
+
+- Featured in an episode of *Swayam* on Zee TV
+- Featured in an episode on successful women on NM TV
+- Featured in an episode of *Zindagi Ek Safar* on Tata Sky Senior (2020)
+- Guest three times on ITV Live in USA
+- Cooking demo for charity event for "Friends in Need" in New York City
